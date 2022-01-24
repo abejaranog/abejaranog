@@ -8,7 +8,8 @@
 
 #### Description
 ```
-Interested on creating automation tools in Cloud Enviroments using my principal technology stack
+Interested on creating automation tools in Cloud Enviroments using my principal technology stack.
+Supporter of the phrase "Change is the only constant", that is why I focus my professional development on always seeking the best possible adaptability and flexibility, renewing myself daily.
 ```
 
 ### My skills
