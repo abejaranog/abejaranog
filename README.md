@@ -21,6 +21,7 @@ always seeking the best possible adaptability and flexibility, renewing myself d
 
 [![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
+[![Huawei Cloud](https://img.shields.io/badge/-Huawei%20Cloud-black)](https://cloud.huawei.com/)
 
 #### 🏗️ My common tools
 
